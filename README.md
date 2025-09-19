@@ -4,6 +4,12 @@
 
 > Submitted to Open Mobile Hub AI Agent Competition 2025
 
+## 🎥 **Demo Video**
+**[📹 Watch Live Demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)**
+*Full walkthrough of AgentWatch running on iOS with real-time features*
+
+---
+
 AgentWatch is a comprehensive mobile application designed to monitor, control, and audit AI agents in enterprise environments. Built with React Native and real-time capabilities, it addresses the critical gap in AI agent governance tools.
 
 ## 🚀 Quick Start
@@ -17,7 +23,7 @@ AgentWatch is a comprehensive mobile application designed to monitor, control, a
 
 1. **Clone the repository**
 ```bash
-git clone [repository-url]
+git clone https://github.com/kyisaiah47/AgentWatch.git
 cd AgentWatch
 ```
 
