@@ -8,6 +8,9 @@
 **[📹 Watch Live Demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)**
 *Full walkthrough of AgentWatch running on iOS with real-time features*
 
+
+[![Watch Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=CXPLqqjszaM)
+
 ---
 
 AgentWatch is a comprehensive mobile application designed to monitor, control, and audit AI agents in enterprise environments. Built with React Native and real-time capabilities, it addresses the critical gap in AI agent governance tools.
